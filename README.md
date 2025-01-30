@@ -21,7 +21,7 @@ Our team has been working to expand this project into a fully functioning, full 
 We worked in a team of four made up of two User Experience Designers and two Developers.  
 [Signe Bergman - UX Designer](https://www.linkedin.com/in/signebergman/)  
 [Jay-Kwon James Park - UX Designer](https://www.linkedin.com/in/jaykwonjpark/)  
-[Erik Heikkila - Full Stack Web Developer](https://www.linkedin.com/in/erik-hei/)  
+[Sheamus Heikkila - Full Stack Web Developer](https://www.linkedin.com/in/sheamus-hei/)  
 [Melissa Young - Front End Developer](https://www.linkedin.com/in/melissadcyoung/)  
 
 # Project Architecture
